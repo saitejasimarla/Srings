@@ -1,1 +1,1 @@
-# Srings
+# Strings
